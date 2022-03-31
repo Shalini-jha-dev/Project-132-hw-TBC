@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+
+#intro{
+    float: left;
+    border: 2px solid black;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+    font-family: 'Josefin Sans', sans-serif;
+}
